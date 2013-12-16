@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "7a740942_35e72f42",
+        "filename": "cm.mk",
+        "patchSetId": 1
+      },
+      "lineNbr": 12,
+      "author": {
+        "id": 2597
+      },
+      "writtenOn": "2013-12-16T05:31:32Z",
+      "side": 1,
+      "message": "P?",
+      "revId": "9cf380b4d5fd2b08c2434dc27d38fca3b33a22eb",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
