@@ -34,6 +34,24 @@
       "revId": "9cf380b4d5fd2b08c2434dc27d38fca3b33a22eb",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7a740942_ab3adee5",
+        "filename": "cm.mk",
+        "patchSetId": 1
+      },
+      "lineNbr": 12,
+      "author": {
+        "id": 1063
+      },
+      "writtenOn": "2013-12-17T06:37:17Z",
+      "side": 1,
+      "message": "You deleted the \u0027P\u0027 in PRODUCT_BUILD_PROP_OVERRIDES.",
+      "parentUuid": "7a740942_75c4d791",
+      "revId": "9cf380b4d5fd2b08c2434dc27d38fca3b33a22eb",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
     }
   ]
 }
